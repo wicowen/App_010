@@ -1,12 +1,13 @@
 {
-  "name": "App_010",
+  "name": "app-010",
   "version": "0.0.1",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
     "vue": "/usr/bin/env node ./node_modules/.bin/vue"
   },
-  "dependencies": {
-    "@vue/cli": "^4.0.0"
+  "dependencies": {},
+  "devDependencies": {
+    "@vue/cli": "^4.5.0"
   }
 }
