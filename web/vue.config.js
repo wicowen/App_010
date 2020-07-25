@@ -25,7 +25,7 @@ module.exports = {
   //       },
   //     },
   //   },
-  },
+  // },
   // chainWebpack: (config) => {
   //   config.plugin('html')
   //     .tap((options) => {
