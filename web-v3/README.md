@@ -1,4 +1,4 @@
-# web-v3-test
+# web-v3
 
 ## Project setup
 ```
