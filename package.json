@@ -4,10 +4,13 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "vue": "/usr/bin/env node ./node_modules/.bin/vue"
+    "vue": "/usr/bin/env node ./node_modules/.bin/vue",
+    "surge": "/usr/bin/env node ./node_modules/.bin/surge"
   },
-  "dependencies": {},
+  "dependencies": {
+  },
   "devDependencies": {
-    "@vue/cli": "^4.5.0"
+    "@vue/cli": "^4.5.0",
+    "surge": "^0.21.7"
   }
 }
