@@ -16,9 +16,9 @@ const routes: Array<RouteRecordRaw> = [
     component: () => import(/* webpackChunkName: "about" */ '../views/About.vue'),
   },
   {
-    path: '/tailwind',
-    name: 'Tailwind',
-    component: () => import(/* webpackChunkName: "tailwind" */ '../views/Tailwind.vue'),
+    path: '/blog',
+    name: 'Blog',
+    component: () => import(/* webpackChunkName: "blog" */ '../views/Blog.vue'),
   },
 ];
 
