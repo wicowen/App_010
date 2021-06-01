@@ -40,8 +40,8 @@ yarn surge /{path}/web-site/dist/ --domain https://wico.surge.sh
 
 ---
 ```
-cd ~/GitHub/App_010/web-v3 && yarn build && \\
-cd dist && mv index.html 200.html && \\
-cd ~/GitHub/App_010/ && \\
-yarn surge ~/GitHub/App_010/web-v3/dist --domain https://wico.surge.sh
+  cd ~/GitHub/App_010/web-v3 && yarn build &&
+  cd dist && mv index.html 200.html &&
+  cd ~/GitHub/App_010/ &&
+  yarn surge ~/GitHub/App_010/web-v3/dist --domain https://wico.surge.sh
 ```
